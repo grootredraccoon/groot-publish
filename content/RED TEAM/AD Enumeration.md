@@ -6,7 +6,12 @@ tags:
 enableToc: true
 ---
 
-안녕하세요ddd
+This is for newbiews to understand Active Directory Testing.
+
+## Enumeration on users,computers.
+
+### Active Directory CheatSheet
+
 ```mermaid
 sequenceDiagram
     Alice->>+John: Hello John, how are you?
@@ -15,4 +20,3 @@ sequenceDiagram
     John-->>-Alice: I feel great!
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y7eizVOfksE?si=lzQQKKhtLnSMzBj3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
