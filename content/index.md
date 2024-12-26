@@ -1,6 +1,6 @@
 ---
-title: Welcome to Groot Blog
+title: Welcome to Groot Cyber Security
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+Welcome to Groot Cyber security blog!
